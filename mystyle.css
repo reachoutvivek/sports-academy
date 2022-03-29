@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+  }
+ 
+  #vanta-js {
+    width:  100vw;
+    height: 100vh;
+  }
+  #h1{
+    text-align: center;
+    font-family:Arial, Helvetica, sans-serif ;
+    color:Red;
+    font-size: 50px;
+  }
+  #heading2{
+    font-size: 25px;
+    color:yellow;
+    font-style: italic;
+  }
+  
+  #heading1{
+    color:#ff4000;
+    font-style: italic;
+    font-size: 35px;
+  }
+  #point{
+    color: lime;
+    font-style: italic;
+    font-size: 30px;
+  }
+  #list{
+    font-size: 50px;
+    color: yellow;
+    
+  }
